@@ -1,0 +1,1 @@
+- Run ./asem [assembly-filepath]
